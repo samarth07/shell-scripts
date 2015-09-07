@@ -1,0 +1,7 @@
+clear
+echo "hellow $USER"
+echo "today is \c" ;date
+echo "calander"
+cal
+
+
